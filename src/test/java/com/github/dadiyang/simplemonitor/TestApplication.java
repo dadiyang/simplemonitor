@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 @Configuration
-@ComponentScan(basePackages = "com.bj58.crm.simplemonitor")
+@ComponentScan(basePackages = "com.github.dadiyang.simplemonitor")
 @EnableAspectJAutoProxy
 public class TestApplication {
 }
